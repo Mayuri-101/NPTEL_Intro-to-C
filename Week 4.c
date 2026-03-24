@@ -10,7 +10,7 @@ void swap(int *x, int *y)
 int main()
 {
     int a, b;
-
+    
     printf("Enter value of a: ");
     scanf("%d", &a);
 
